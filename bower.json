@@ -1,0 +1,12 @@
+{
+  "name": "cours-javascript",
+  "version": "1.0.0",
+  "homepage": "https://github.com/Monotone001/cours-javascript",
+  "authors": [
+    "Monotone001 <marchetti.robin@gmail.com>"
+  ],
+  "description": "Aprentissage JavaScript",
+  "main": "index.html",
+  "license": "MIT",
+  "private": true
+}

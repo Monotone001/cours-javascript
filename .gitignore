@@ -37,3 +37,5 @@ $RECYCLE.BIN/
 ### KomodoEdit ### 
 *.komodoproject 
 .komodotools
+
+/node_modules/
